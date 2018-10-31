@@ -10,6 +10,10 @@
   background: #282b2e;
 }
 
+.class {
+ background: #282b2e; 
+}
+
 .hljs-keyword,
 .hljs-selector-tag,
 .hljs-literal,
